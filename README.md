@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jamsheer
 - 👀 I’m interested in coding and Cyber security works.
-- 🌱 I’m currently learning  Ethickal Hacking
-- 💞️ I’m looking to collaborate on coding and security related works
-- 📫 How to reach me jamshi5120@gmail.com
-- 😄 Pronouns: Jamshi
+- 🌱 I’m currently learning  Ethickal Hacking.
+- 💞️ I’m looking to collaborate on coding and security related works.
+- 📫 How to reach me jamshi5120@gmail.com  .
+- 😄 Pronouns: Jamshi.
 - ⚡ Fun fact: ...
 
 <!---
